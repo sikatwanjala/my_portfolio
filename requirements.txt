@@ -255,3 +255,8 @@ certifi==2025.1.31
 charset-normalizer==3.4.1
 idna==3.3
 django-cors-headers==4.8.0
+
+# Database Connectors & Drivers
+mysql-connector-python==9.3.0
+PyMySQL==1.1.1
+psycopg2-binary==2.9.10
